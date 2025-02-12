@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a passionate MERN stack developer working on API Implementation and web development. I love building innovative projects, especially in React and Node.
-I have completed 3 months bootcam programme fpr MERN stack developemnt @GUVI 
+I have completed 3 months bootcamp programme fpr MERN stack developemnt @GUVI 
 
 
 - ⚡ Tech Stack: React (Vite), Tailwind CSS, OpenAI API, MongoDB,Nodejs,Express,EJS
