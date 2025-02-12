@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'M SUDHARSAN
 
-<!--
-**Sudharsan0929/Sudharsan0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate MERN stack developer working on API Implementation and web development. I love building innovative projects, especially in React and Node.
+I have completed 3 months bootcam programme fpr MERN stack developemnt @GUVI 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Tech Stack: React (Vite), Tailwind CSS, OpenAI API, MongoDB,Nodejs,Express,EJS
+- 🔒 Security: JWT authentication, password hashing
+- 📧 Email Integration: Nodemailer (EJS for templates)
+
+## Projects
+🔹 [Online Counselling platform](#) - An online counselling platform to help people to overcome their problems with relationship,career etc..,.
+
+🔹 [Task manager with Password Reset System ](#) - Secure authentication system with JWT and Nodemailer for email notifications.
+
+🔹 More projects coming soon!
+
+## Get in Touch
+- 🌐 [Portfolio](#) (Work in progress)
+- 📫 Reach me at: sudharsanselva2003@gmail.com
+- 🐦 X: @SudharsanSelv18
+
+🚀 Always open to learning and collaboration!
+
