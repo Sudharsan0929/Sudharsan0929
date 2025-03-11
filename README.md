@@ -17,7 +17,7 @@ I have completed 3 months bootcamp programme fpr MERN stack developemnt @GUVI
 🔹 More projects coming soon!
 
 ## Get in Touch
-- 🌐 [[Portfolio](https://sudharsans-fsd-portfolio.netlify.app/)](#) (Work in progress)
+- 🌐 [[Portfolio](https://sudharsans-fsd-portfolio.netlify.app/)]
 - 📫 Reach me at: sudharsanselva2003@gmail.com
 - 🐦 X: @SudharsanSelv18
 
